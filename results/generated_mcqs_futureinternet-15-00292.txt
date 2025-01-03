@@ -1,0 +1,65 @@
+## MCQ 1
+Question: What is the primary goal of the research presented in the article?
+
+A) To find a cure for Autism Spectrum Disorder (ASD).
+B) To improve the diagnostic process for ASD in toddlers and adults using deep learning and fair AI techniques.
+C) To study the genetic causes of ASD.
+D) To develop new medications for ASD.
+
+Correct Answer: B
+
+
+## MCQ 2
+Question: Which deep learning models are proposed in this study as superior to traditional methods for ASD screening?
+
+A) Multilayer Perceptron (MLP) and Artificial Neural Networks (ANN)
+B) Convolutional Neural Networks (CNN) and Long Short-Term Memory (LSTM)
+C) CNN–LSTM with Particle Swarm Optimization (PSO) and a CNN model combined with Gated Recurrent Units (GRU–CNN)
+D) K-Nearest Neighbors (KNN) and Logistic Regression (LR)
+
+Correct Answer: C
+
+
+## MCQ 3
+Question:  What technique is used in this study to address the problem of imbalanced datasets?
+
+A)  Principal Component Analysis (PCA)
+B)  Synthetic Minority Oversampling Technique (SMOTE)
+C)  Feature Selection
+D)  Data Augmentation
+
+Correct Answer: B
+
+
+## MCQ 4
+Question: What bio-inspired algorithm is incorporated into one of the proposed deep learning architectures to optimize the model's performance?
+
+A) Genetic Algorithm
+B) Simulated Annealing
+C) Particle Swarm Optimization (PSO)
+D) Ant Colony Optimization
+
+Correct Answer: C
+
+
+## MCQ 5
+Question:  Besides deep learning models, which other machine learning models were used as baselines for comparison in this study?
+
+A) Only Support Vector Machines (SVM)
+B) K-Nearest Neighbors (KNN), Logistic Regression (LR), Random Forests (RF), Decision Trees (DT), Support Vector Classifier (SVC), Multilayer Perceptron (MLP), Artificial Neural Networks (ANN), CNN, LSTM, GRU
+C) Only Naive Bayes
+D) Only  Linear Regression and Decision Trees
+
+
+Correct Answer: B
+
+
+## MCQ 6
+Question:  What is one of the primary AI fairness techniques employed to mitigate bias in the study?
+
+A)  Removing all outliers from the dataset.
+B)  Using only one specific ethnicity in the dataset.
+C)  Feature engineering, including handling outliers and applying SMOTE.
+D)  Ignoring demographic information.
+
+Correct Answer: C

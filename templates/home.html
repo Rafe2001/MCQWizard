@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MCQWizard</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="#">MCQWizard</a>
+        </div>
+    </nav>
+
+    <div class="container mt-5">
+        <h1 class="text-center mb-4">Generate MCQs from Uploaded Documents</h1>
+        <div class="card shadow-sm">
+            <div class="card-body">
+                <form action="/generate" method="POST" enctype="multipart/form-data">
+                    <div class="mb-3">
+                        <label for="file" class="form-label">Upload File</label>
+                        <input type="file" name="file" id="file" class="form-control" required>
+                        <small class="text-muted">Supported formats: PDF, TXT, DOCX</small>
+                    </div>
+                    <div class="mb-3">
+                        <label for="num_questions" class="form-label">Number of Questions</label>
+                        <input type="number" name="num_questions" id="num_questions" class="form-control" min="1" max="50" placeholder="Enter number of MCQs" required>
+                    </div>
+                    <button type="submit" class="btn btn-primary w-100">Generate MCQs</button>
+                </form>
+            </div>
+        </div>
+    </div>
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

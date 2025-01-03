@@ -1,0 +1,95 @@
+## MCQ 1
+Question: What is the primary purpose of a balance sheet in a company's financial statements?
+A) To report a company's revenues, costs, and expenses
+B) To provide a snapshot of a company's assets, liabilities, and shareholder equity
+C) To summarize a company's cash flows
+D) To evaluate a company's market growth potential
+Correct Answer: B) To provide a snapshot of a company's assets, liabilities, and shareholder equity
+
+## MCQ 2
+Question: Which of the following financial statements is used to conduct financial analysis and calculate financial ratios?
+A) Profit and Loss (P&L) Statement
+B) Cash-flow Statement
+C) Balance Sheet
+D) All of the above
+Correct Answer: D) All of the above
+
+## MCQ 3
+Question: What is the name of the financial statement that summarizes a company's revenues, costs, and expenses during a specific period?
+A) Balance Sheet
+B) Profit and Loss (P&L) Statement
+C) Cash-flow Statement
+D) Statement of Operations
+Correct Answer: B) Profit and Loss (P&L) Statement
+
+## MCQ 4
+Question: Why is it important to estimate rebates payable in a company's financial management?
+A) To reduce costs and increase revenue
+B) To improve cash flow management
+C) To evaluate a company's financial soundness
+D) To calculate financial ratios
+Correct Answer: B) To improve cash flow management
+
+## MCQ 5
+Question: What statistical method is used to estimate rebates balances in the future?
+A) Regression analysis
+B) Correlation analysis
+C) Time series analysis
+D) Financial ratio analysis
+Correct Answer: A) Regression analysis
+
+## MCQ 6
+Question: What is the purpose of using the Python Library package Statsmodels in the lab experiment?
+A) To import historical data on rebates payable and sales
+B) To explore data, estimate statistical models, and perform statistical tests
+C) To calculate correlation between rebate and sales
+D) To generate datasets with rebates payable lagged
+Correct Answer: B) To explore data, estimate statistical models, and perform statistical tests
+
+## MCQ 7
+Question: What is the relationship between the size of commission and sales revenue?
+A) The size of commission depends on the company's assets
+B) The size of commission depends on the company's liabilities
+C) The size of commission depends on sales revenue
+D) The size of commission is independent of sales revenue
+Correct Answer: C) The size of commission depends on sales revenue
+
+## MCQ 8
+Question: What is the purpose of calculating the correlation between rebate and sales in the lab experiment?
+A) To improve the model's predictive power
+B) To estimate rebates balances in the future
+C) To evaluate a company's financial soundness
+D) To calculate financial ratios
+Correct Answer: A) To improve the model's predictive power
+
+## MCQ 9
+Question: What is the purpose of implementing Multiple Regression in the lab experiment?
+A) To estimate rebates balances in the future
+B) To improve the model's predictive power
+C) To calculate correlation between rebate and sales
+D) To generate datasets with rebates payable lagged
+Correct Answer: B) To improve the model's predictive power
+
+## MCQ 10
+Question: What is the purpose of splitting the dataset with coefficients for prediction of rebates balances in the future?
+A) To estimate rebates balances in the future
+B) To improve the model's predictive power
+C) To compare predicted balances with actuals
+D) To calculate financial ratios
+Correct Answer: A) To estimate rebates balances in the future
+
+## MCQ 11
+Question: What is the purpose of comparing predicted balances with actuals in the lab experiment?
+A) To evaluate a company's financial soundness
+B) To calculate financial ratios
+C) To improve the model's predictive power
+D) To validate the accuracy of the model
+Correct Answer: D) To validate the accuracy of the model
+
+## MCQ 12
+Question: What is the name of the statement that provides information about a company's ability to generate profit by increasing revenue, reducing costs, or both?
+A) Balance Sheet
+B) Profit and Loss (P&L) Statement
+C) Cash-flow Statement
+D) Statement of Financial Results
+Correct Answer: B) Profit and Loss (P&L) Statement

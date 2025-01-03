@@ -1,0 +1,79 @@
+MCQ 1
+Question: Which pre-trained models are mentioned in the scenario based question of Chapter 4?
+A) Resnet18, Alexnet, VGG
+B) Resnet50, Alexnet, VGG
+C) Resnet50, Alexnet18, VGG
+D) Resnet50, Alexnet, VGG16
+Correct Answer: D) Resnet50, Alexnet, VGG16
+
+MCQ 2
+Question: What is the primary mechanism for dimension reduction in the Inception model?
+A) Convolutional layers
+B) Max pooling
+C) Average pooling
+D) Factorization of convolutions
+Correct Answer: D) Factorization of convolutions
+
+MCQ 3
+Question: Which of the following is not a key difference between normal image classification and fine-grained image recognition?
+A) Number of classes
+B) Level of detail
+C) Type of data required
+D) Training time
+Correct Answer: A) Number of classes
+
+MCQ 4
+Question: What is the image reidentification problem in computer vision about?
+A) Recognizing an object in an image
+B) Recognizing a scene in an image
+C) Recognizing a specific instance of an object across different images
+D) Recognizing the pose of an object in an image
+Correct Answer: C) Recognizing a specific instance of an object across different images
+
+MCQ 5
+Question: Which of the following is not a type of image segmentation?
+A) Instance segmentation
+B) Semantic segmentation
+C) Object detection
+D) Panoptic segmentation
+Correct Answer: C) Object detection
+
+MCQ 6
+Question: Which of the following is not a scenario based question in Chapter 7?
+A) A question about PPnet
+B) A question about Unet
+C) A question about FPN
+D) A question about Segnet
+Correct Answer: D) A question about Segnet
+
+MCQ 7
+Question: What is the primary purpose of bilinear interpolation in image processing?
+A) To reduce the size of an image
+B) To increase the size of an image
+C) To change the color space of an image
+D) To enhance the edges of an image
+Correct Answer: B) To increase the size of an image
+
+MCQ 8
+Question: Which of the following clustering methods is not related to Chapter 5?
+A) Single linkage clustering
+B) Complete linkage clustering
+C) Hierarchical clustering
+D) K-means clustering
+Correct Answer: D) K-means clustering
+
+MCQ 9
+Question: What is the main concept of scene parsing?
+A) Parsing the semantic meaning of a scene
+B) Parsing the syntactic structure of a scene
+C) Parsing the optical flow of a scene
+D) Parsing the depth of a scene
+Correct Answer: A) Parsing the semantic meaning of a scene
+
+MCQ 10
+Question: Which of the following is not a concept related to action recognition, action classification, and action localization?
+A) Temporal segmentation
+B) Spatial segmentation
+C) Object tracking
+D) Motion estimation
+Correct Answer: C) Object tracking
